@@ -1,0 +1,4 @@
+llm_api_variables.env
+.env
+.ipynb_checkpoints/
+__pycache__/
